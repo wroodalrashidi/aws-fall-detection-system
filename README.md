@@ -45,7 +45,7 @@ When a video or image is uploaded, the system automatically detects if a fall ha
 
 ## 👥 Team Members
 - *Wrood Alrashidi*  
-- *Seba Alwosais
+- #Seba Alwosais
 
 ---
 
